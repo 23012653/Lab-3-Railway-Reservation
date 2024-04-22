@@ -42,7 +42,7 @@ their tickets.
 ![WhatsApp Image 2024-04-22 at 11 15 58_0bde9a6d](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/24b1ada7-2576-4f7f-96b3-6f8fae506c96)
 ### STATECHART DIAGRAM
 ![WhatsApp Image 2024-04-22 at 11 16 24_755779b4](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/e9d10924-5471-4851-a19b-6e5b7f8ed46e)
-### PACKAGE DIAGRAM
+### PACKAGE DIAGRAM
 ![WhatsApp Image 2024-04-22 at 11 15 01_3cd9557c](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/95c73306-056d-40d5-a0ff-b428cd633a9b)
 
 ### RESULT:
