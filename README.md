@@ -30,6 +30,8 @@ their tickets.
 5.Execute it.
 
 ### UML DIAGRAMS:
+### DEVELOPED BY : ANUBHARATHI SS
+### REGISTER NUMBER : 212223040017
 ### USECASE DIAGRAM
 ![WhatsApp Image 2024-04-22 at 11 13 22_9cc18418](https://github.com/23012653/Lab-3-Railway-Reservation/assets/150777517/24ade202-2abc-41c8-b6b8-bd66bea1464a)
 ### CLASS DIAGRAM
